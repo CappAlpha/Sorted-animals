@@ -7,7 +7,7 @@ namespace Prac
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-             Console.WriteLine("/nYO!");
+             Console.WriteLine("\nYO!");
         }
     }
 }
