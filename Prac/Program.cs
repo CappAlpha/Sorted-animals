@@ -97,6 +97,7 @@ namespace Prac
             {
                 Console.WriteLine($"{a.kind} --- {a.animalWeight} --- {a.foodWeight} --- {a.foodType}");
             }
+            Console.WriteLine("\nБедные животные...");
             Console.ReadKey();
         }
     }
