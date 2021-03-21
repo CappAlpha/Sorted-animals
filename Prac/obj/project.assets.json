@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tirec\\Desktop\\work\\work in progress\\Prac\\Prac.csproj",
+      "projectUniqueName": "C:\\Users\\tirec\\Desktop\\work\\Sorted animals\\Prac\\Prac.csproj",
       "projectName": "Prac",
-      "projectPath": "C:\\Users\\tirec\\Desktop\\work\\work in progress\\Prac\\Prac.csproj",
+      "projectPath": "C:\\Users\\tirec\\Desktop\\work\\Sorted animals\\Prac\\Prac.csproj",
       "packagesPath": "C:\\Users\\tirec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tirec\\Desktop\\work\\work in progress\\Prac\\obj\\",
+      "outputPath": "C:\\Users\\tirec\\Desktop\\work\\Sorted animals\\Prac\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tirec\\AppData\\Roaming\\NuGet\\NuGet.Config",

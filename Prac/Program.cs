@@ -80,7 +80,7 @@ namespace Prac
             Console.WriteLine("\nСортировка по убыванию количества пищи");
             IEnumerable<Animal> sortedAnimals = animals.OrderByDescending(a => a.foodWeight);
             foreach (Animal a in sortedAnimals)
-            {
+            { 
                 Console.WriteLine($"{a.kind} --- {a.animalWeight} --- {a.foodWeight} --- {a.foodType}");
             }
             //2 - Вывести первую тройку животных из сортировки убывания пищи
@@ -96,7 +96,7 @@ namespace Prac
              foreach (Animal a in sortedAnimals)
             {
                 Console.WriteLine($"{a.kind} --- {a.animalWeight} --- {a.foodWeight} --- {a.foodType}");
-            }
+            } 
             Console.WriteLine("\nБедные животные...");
             Console.ReadKey();
         }
